@@ -1,0 +1,2 @@
+answer:
+http://localhost:8000/index.php?data=Tzo0OiJVc2VyIjoyOntzOjg6InVzZXJuYW1lIjtzOjU6ImFkbWluIjtzOjc6ImlzQWRtaW4iO2I6MTt9
